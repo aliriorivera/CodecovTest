@@ -21,23 +21,3 @@ func GetResult() string {
 	return result
 
 }
-
-func Notest1() string {
-
-	/*
-	   Comment
-	*/
-
-	return result
-
-}
-
-func NoTest2() string {
-
-	/*
-	   Comment
-	*/
-
-	return result
-
-}
