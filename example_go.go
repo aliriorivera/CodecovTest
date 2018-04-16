@@ -6,18 +6,38 @@ var result string
 
 func Setup() {
 
-    // Comment
+	// Comment
 
-    result = awesome.Smile()
+	result = awesome.Smile()
 
 }
 
 func GetResult() string {
 
-    /*
-    Comment
-    */
+	/*
+	   Comment
+	*/
 
-    return result
+	return result
+
+}
+
+func Notest1() string {
+
+	/*
+	   Comment
+	*/
+
+	return result
+
+}
+
+func NoTest2() string {
+
+	/*
+	   Comment
+	*/
+
+	return result
 
 }
