@@ -21,23 +21,3 @@ func GetResult() string {
 	return result
 
 }
-
-func GetResult2() string {
-
-	/*
-	   Comment
-	*/
-
-	return result
-
-}
-
-func GetResult3() string {
-
-	/*
-	   Comment
-	*/
-
-	return result
-
-}
