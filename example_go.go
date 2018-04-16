@@ -22,22 +22,22 @@ func GetResult() string {
 
 }
 
-func GetResult2() string {
+// func GetResult2() string {
 
-	/*
-	   Comment
-	*/
+// 	/*
+// 	   Comment
+// 	*/
 
-	return result
+// 	return result
 
-}
+// }
 
-func GetResult3() string {
+// func GetResult3() string {
 
-	/*
-	   Comment
-	*/
+// 	/*
+// 	   Comment
+// 	*/
 
-	return result
+// 	return result
 
-}
+// }
