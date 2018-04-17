@@ -1,5 +1,6 @@
-[Codecov][1] Go Example
+Fork of [Codecov][1] Go
 =======================
+For testing purposes from the codecov webpage examples.
 
 This repository serves as an **example** on how to use [Codecov Global][4] for Go.
 
