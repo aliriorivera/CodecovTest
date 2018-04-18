@@ -10,8 +10,13 @@ coverage:
   status:
     project:
       default:
-        threshold: 1%
-    patch: yes
+        target: auto
+        threshold: 0.5
+        base: auto
+      patch:
+      default:
+        target: auto
+        threshold: 0.5
     changes: no
 
 parsers:
@@ -23,6 +28,6 @@ parsers:
       macro: no
 
 comment:
-  layout: "header, diff"
+  layout: "header, diff, changes, sunburst, suggestions, tree"
   behavior: default
   require_changes: no
